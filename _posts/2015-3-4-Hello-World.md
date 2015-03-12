@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Really it is super.!
 ---
 
+###Hello world!
 I am really amazed with this.
