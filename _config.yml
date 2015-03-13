@@ -16,8 +16,6 @@ highlighter: pygments
 permalink:        pretty
 relative_permalinks: true
 
-exclude: [README.md, TODO.md,404.md]
-
 # Setup
 title:            Jeno Karthic
 tagline:          'Enthusiastic developer from Madurai,India'
@@ -29,7 +27,7 @@ author:
   name:           'Jeno Karthic'
   url:            https://twitter.com/jenokarthic
 
-paginate:3
+paginate:         3
 
 # Custom vars
 version:          1.0
