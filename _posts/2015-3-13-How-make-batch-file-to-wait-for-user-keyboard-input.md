@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to make the BATCH script to wait for user Keyboard Input?
+tags: [jekyll, documentation]
 ---
 
 While running bat files, if any error occurs, it will vanishes without waiting for the user to review it.  To overcome this issue, we can make the bat file to wait for the user input to terminate the window like getch() is being used in C programming.

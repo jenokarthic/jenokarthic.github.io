@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Export SQL query output to CSV file with and Without header? 
+tags: [jekyll, documentation]
 ---
 
 bcp or sqlcmd commands can be used to achieve this.

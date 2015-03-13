@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Integrating Beyond Compare  with TortoiseSVN as Diff Viewer and  3 way Merge Tool!
+tags: [jekyll, documentation]
 ---
 
 
