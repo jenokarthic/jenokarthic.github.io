@@ -13,7 +13,7 @@
 markdown: redcarpet
 highlighter: pygments
 # Permalinks
-permalink:        /post/:title
+permalink:        pretty
 relative_permalinks: true
 
 exclude: [README.md, TODO.md,404.md]
@@ -30,7 +30,6 @@ author:
   url:            https://twitter.com/jenokarthic
 
 paginate:3
-paginate_path: '/blog/:num'
 
 # Custom vars
 version:          1.0
