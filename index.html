@@ -15,9 +15,11 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.excerpt }}
+    <a href="{{ post.url }}" class="read-more">Read More...</a>
+    <hr/>
       </div>
 
-<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+
   {% endfor %}
 </div>
 <div class="pagination">
