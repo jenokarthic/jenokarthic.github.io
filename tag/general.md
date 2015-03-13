@@ -1,5 +1,5 @@
 ---
 layout: posts_by_tag
-tag: jekyll
-title: Posts tagged Jekyll
+tag: general
+title: Posts tagged General
 ---

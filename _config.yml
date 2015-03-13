@@ -13,8 +13,10 @@
 markdown: redcarpet
 highlighter: pygments
 # Permalinks
-permalink:        pretty
+permalink:        /post/:title
 relative_permalinks: true
+
+exclude: [README.md, TODO.md,404.md]
 
 # Setup
 title:            Jeno Karthic
@@ -27,7 +29,8 @@ author:
   name:           'Jeno Karthic'
   url:            https://twitter.com/jenokarthic
 
-paginate:         5
+paginate:3
+paginate_path: '/blog/:num'
 
 # Custom vars
 version:          1.0
