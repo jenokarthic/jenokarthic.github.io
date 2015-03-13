@@ -7,7 +7,7 @@ While running bat files, if any error occurs, it will vanishes without waiting f
 
 To do that,  add the following line at end of the bat file.
 
-```
+```bash
 set /p DUMMY=Hit ENTER to continue...
 ```
 
