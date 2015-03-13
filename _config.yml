@@ -1,16 +1,4 @@
-
-
-
-
-
 # Dependencies
-
-
-
-
-
-
-
 markdown: redcarpet
 highlighter: pygments
 # Permalinks
@@ -23,7 +11,7 @@ tagline:          'Enthusiastic developer from Madurai,India'
 description:      'Blog of jeno karthic'
 url:              http://jenokarthic.github.io
 baseurl:          /
-
+disqus:              jenokarthicblog
 author:
   name:           'Jeno Karthic'
   url:            https://twitter.com/jenokarthic
@@ -31,6 +19,5 @@ author:
 paginate:         5
 
 # Custom vars
-version:1.0
-disqus:          jenokarthicblog
+version:          1.0
 
