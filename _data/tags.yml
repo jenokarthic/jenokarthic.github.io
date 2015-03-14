@@ -4,8 +4,8 @@
 - slug: documentation
   name: Documentation
 
+-slug: git
+name: Git
+
 - slug: examples
   name: Examples
-
-  -slug: git
-  name: Git
