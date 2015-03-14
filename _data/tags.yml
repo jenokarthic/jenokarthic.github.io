@@ -6,3 +6,6 @@
 
 - slug: examples
   name: Examples
+
+  -slug: git
+  name: Git
