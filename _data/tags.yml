@@ -5,7 +5,7 @@
   name: Documentation
 
 -slug: git
-name: Git
+  name:  Git
 
 - slug: general
   name: General
