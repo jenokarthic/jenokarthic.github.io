@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: Integrating Gulp and Laravel 5
 tags: [documentation]
