@@ -11,7 +11,7 @@ bcp or sqlcmd commands can be used to achieve this.
 
 All names in CAP need to be defined according to your environment /db.
 
-```sql
+```bash
 sqlcmd -S SERVERNAME -d DATABASE_NAME -E -o "c:\EXPORTED_CSV_FILE.csv" -Q "select * from TABLENAME" -W -w 999 -s","
 ```
 
