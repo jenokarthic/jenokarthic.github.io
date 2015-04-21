@@ -20,4 +20,5 @@ paginate:         5
 
 # Custom vars
 version:          1.0
+exclude: [ 'Gemfile*', '_site/', '.code-highlighter-cache','.sass-cache' ]
 
