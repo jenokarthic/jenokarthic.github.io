@@ -21,7 +21,7 @@ sqlcmd -S SERVERNAME -d DATABASE_NAME -E -o "c:\EXPORTED_CSV_FILE.csv" -Q "selec
 
 
 ####SQLCMD - Without header:
-```sql
+```bash
 sqlcmd -S SERVERNAME -d DATABASE_NAME -E -o "c:\EXPORTED_CSV_FILE.csv" -Q "select * from TABLENAME" -W -w 999 -s"," -h-1
 ```
 
@@ -29,6 +29,6 @@ sqlcmd -S SERVERNAME -d DATABASE_NAME -E -o "c:\EXPORTED_CSV_FILE.csv" -Q "selec
 
 
 ####bcp Command:
-```sql
+```sh
 bcp "select * from DATABASE.SCHEMA.TABLE" queryout  "c:\EXPORTED_CSV_FILE.csv"  -c -t"," -r"\n" -S SERVERNAME -T
 ```
