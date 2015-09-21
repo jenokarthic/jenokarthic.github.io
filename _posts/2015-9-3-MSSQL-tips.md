@@ -18,10 +18,10 @@ AS
 ```
 
 - You can encrypt the Stored Procedure, using  
+
 ```sql
 create procedure name
 with encryption
-
 ```
 
 ### Database management
