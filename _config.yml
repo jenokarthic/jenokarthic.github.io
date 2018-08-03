@@ -9,7 +9,7 @@ title:            Jeno Karthic
 tagline:          'Enthusiastic developer from Madurai,India'
 description:      'Blog of jeno karthic'
 url:              http://jenokarthic.github.io
-baseurl:          /
+baseurl:          http://jenokarthic.github.io/
 disqus:              jenokarthicblog
 author:
   name:           'Jeno Karthic'
